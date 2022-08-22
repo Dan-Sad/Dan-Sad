@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi👋, I'm Daniil.
 
-<!--
-**Dan-Sad/Dan-Sad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have graduated with honors from university BSTU Technical University (Computer science).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My hard-skills:
+* C#, .NET Framework
+* ASP.NET Core MVC
+* Entity Framework
+* Blazor
+* T-SQL
+* HTML, CSS, Bootstrap
+* Docker
+* C/C++
+* Qt/Qt Designer
+* JSON
+* Bash
+* UML
+* Matlab/Matchad
+---
+* GoF Design Patterns
+* OOP, SOLID, KISS, DRY, YAGNI, SLAP, BDUF, Clean Code, Occam's razor
+* Web service protocols (REST, TCP/IP, UDP etc.)
+* Unit Testing
