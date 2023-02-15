@@ -18,6 +18,6 @@ I have graduated with honors from university BSTU Technical University (Computer
 * Matlab/Matchad
 ---
 * GoF Design Patterns
-* OOP, SOLID, KISS, DRY, YAGNI, SLAP, BDUF, Clean Code, Occam's razor
+* OOP, SOLID, KISS, DRY
 * Web service protocols (REST, TCP/IP, UDP etc.)
 * Unit Testing
