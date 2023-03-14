@@ -4,6 +4,7 @@ I graduated from university BSTU Technical University (Computer science) with ho
 
 ### Hard-skills:
 * C#, .NET Framework
+* ASP.NET Core Web API
 * ASP.NET Core MVC
 * WinForms
 * Entity Framework
