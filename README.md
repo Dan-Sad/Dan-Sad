@@ -9,6 +9,7 @@ I graduated from university BSTU Technical University (Computer science) with ho
 * WinForms
 * Entity Framework
 * Blazor
+* Razor Pages
 * T-SQL
 * JSON, XML
 * HTML, CSS, Bootstrap
